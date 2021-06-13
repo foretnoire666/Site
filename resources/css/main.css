@@ -1,0 +1,12 @@
+#main {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+
+}
+#jikan_nexe- {
+    position:fixed;
+    right: 30px;
+    bottom: 30px;
+}
